@@ -15,3 +15,9 @@ Transferred previous AI project to HTML as part of the second learning
 of the Artificial Intelligence learning journey.
 
 ######################################################################
+
+The second project is the development of a computer vision–based 
+application that analyzes traffic flow by detecting and counting 
+vehicles according to the lanes they use.
+
+######################################################################
