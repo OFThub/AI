@@ -1,0 +1,4 @@
+timestamp,frame,object_id,class,direction
+0.81,15,2,car,kirmizi_serit
+2.21,43,3,car,kirmizi_serit
+3.02,60,14,car,mavi_serit
